@@ -23,4 +23,4 @@ This script allows you to download all videos from a YouTube playlist using the 
    pip install -r requirements.txt
 5. Run the script:
    ```bash 
-   python yt.py
+   python youtube_playlist_downloader.py
